@@ -1,0 +1,14 @@
+---
+output: hugodown::md_document
+title: "short title"
+type: "post"
+summary: "Summar of post ..."
+author: "Joey Trampush"
+tags: [hugodown]
+date: 2022-12-07
+---
+
+## Header
+
+trying this out
+

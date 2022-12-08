@@ -5,10 +5,19 @@
     <link>/tags/</link>
     <description>Recent content in Tags on A calade website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hugodown</title>
+      <link>/tags/hugodown/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hugodown/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>tutorial</title>
