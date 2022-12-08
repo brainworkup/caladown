@@ -2,8 +2,8 @@
 output: hugodown::md_document
 title: "about"
 type: "page"
-summary: "Caladown: A Hugo theme and R package by Danielle Navarro"
-author: ""
+summary: "Caladown: A Hugo theme and R package"
+author: "Joey Trampush"
 tags: []
 date: 2020-09-02
 ---
